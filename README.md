@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @incredibe
 - 👀 I’m interested in python,data science and ml
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m working professional
+- 💞️ I’m looking to collaborate on pyhon,data science
 - 📫 How to reach me 
 
 <!---
